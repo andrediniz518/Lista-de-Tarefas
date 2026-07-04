@@ -1,4 +1,4 @@
-Lista de tarefas
+## Lista de tarefas
 
 Projeto desenvolvido em Python com o objetivo de praticar lógica de programação,
 funções, módulos e  manipulação de listas.
